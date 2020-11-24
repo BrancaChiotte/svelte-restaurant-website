@@ -1,5 +1,10 @@
+<script>
+  export let title = "";
+</script>
+
+
 <div id="about" class="about-content">
-  <h2>About</h2>
+  <h2>{title}</h2>
   <p>
     Aroma blue mountain as coffee single origin doppio, decaffeinated beans
     caffeine et body trifecta. Sugar, roast, cappuccino mazagran, siphon, latte,
